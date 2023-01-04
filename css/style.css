@@ -87,11 +87,11 @@ hr{
 }
 .bottom-container a{
     text-decoration: none;
-    color:#11999E;
+    color: #fff;
     margin: 10px 10px;
 }
 a:hover{
-    color: white;
+    color: #11999E;
 }
 .pro-img{
     width: 25%;
@@ -106,11 +106,6 @@ a:hover{
 }
 .btn {
     background: #11CDD4;
-    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
-    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
     -webkit-border-radius: 10;
     -moz-border-radius: 10;
     border-radius: 10px;
@@ -123,11 +118,6 @@ a:hover{
   
   .btn:hover {
     background: #30E3CB;
-    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4ED);
-    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4ED);
-    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4ED);
-    background-image: -o-linear-gradient(top, #30E3CB, #2BC4ED);
-    background-image: linear-gradient(to bottom, #30E3CB, #2BC4ED);
     text-decoration: none;
   }
 .copyright{
